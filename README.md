@@ -1,6 +1,6 @@
 <!-- dsa-diary README -->
 
-# 🧠 DSA-Diary  
+#  DSA-Diary  
 
 > “Because understanding > memorizing algorithms.”
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 📖 About This Repository
+## About This Repository
 
 Welcome to **DSA-Diary** — my personal log of **Data Structures and Algorithms** practice.  
 Every entry documents a **question**, its **solution (code)**, and a **deep-dive explanation** into the thought process behind it.
@@ -23,9 +23,9 @@ This is not just a repository of answers, but a **learning journal** that helps 
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
-## 🚀 Progress Tracker
+## Progress Tracker
 
 | Topic | Problems Solved | Status |
 |:------|:----------------:|:------:|
@@ -39,7 +39,5 @@ This is not just a repository of answers, but a **learning journal** that helps 
 **Star this repo** if you find it helpful — it motivates me to add more!  
 <br>
 *Consistency builds mastery.*  
-
-![Visitors](https://komarev.com/ghpvc/?username=PXDHU&repo=dsa-diary&color=blueviolet&style=for-the-badge)
 
 </div> 
