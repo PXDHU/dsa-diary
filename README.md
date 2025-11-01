@@ -8,7 +8,6 @@
 ![Languages](https://img.shields.io/github/languages/count/PXDHU/dsa-diary?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/PXDHU/dsa-diary?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/PXDHU/dsa-diary?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Status-Open%20Source-brightgreen?style=for-the-badge)
 
 ---
 
@@ -19,7 +18,7 @@ Every entry documents a **question**, its **solution (code)**, and a **deep-dive
 
 This is not just a repository of answers, but a **learning journal** that helps me — and hopefully others — truly *understand* how algorithms work.
 
-> 🧩 *Goal:* To build a strong foundation in problem-solving and algorithmic thinking through consistent practice.
+> *Goal:* To build a strong foundation in problem-solving and algorithmic thinking through consistent practice.
 
 ---
 
@@ -30,7 +29,7 @@ This is not just a repository of answers, but a **learning journal** that helps 
 | Topic | Problems Solved | Status |
 |:------|:----------------:|:------:|
 | Arrays |  |  |
-| **Total** | **0** | 🌟 Growing daily |
+| **Total** | **0** | Growing daily |
 
 ---
 
