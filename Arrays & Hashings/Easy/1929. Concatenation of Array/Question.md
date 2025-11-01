@@ -20,21 +20,12 @@ Return the array `ans`.
 **Input:**
 nums = [1,2,1]
 
-makefile
-Copy code
-
 **Output:**
 [1,2,1,1,2,1]
-
-makefile
-Copy code
 
 **Explanation:**
 ans = [nums[0], nums[1], nums[2], nums[0], nums[1], nums[2]]
 ans = [1,2,1,1,2,1]
-
-yaml
-Copy code
 
 ---
 
@@ -43,21 +34,12 @@ Copy code
 **Input:**
 nums = [1,3,2,1]
 
-makefile
-Copy code
-
 **Output:**
 [1,3,2,1,1,3,2,1]
-
-makefile
-Copy code
 
 **Explanation:**
 ans = [nums[0], nums[1], nums[2], nums[3], nums[0], nums[1], nums[2], nums[3]]
 ans = [1,3,2,1,1,3,2,1]
-
-yaml
-Copy code
 
 ---
 
