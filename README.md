@@ -28,8 +28,8 @@ This is not just a repository of answers, but a **learning journal** that helps 
 
 | Topic | Problems Solved | Status |
 |:------|:----------------:|:------:|
-| Arrays |  |  |
-| **Total** | **0** | Growing daily |
+| Arrays | 4 | Completed |
+| **Total** | **4** | Growing daily |
 
 ---
 
