@@ -4,11 +4,6 @@
 
 > “Because understanding > memorizing algorithms.”
 
-![Repo Size](https://img.shields.io/github/repo-size/PXDHU/dsa-diary?color=blueviolet&style=for-the-badge)
-![Languages](https://img.shields.io/github/languages/count/PXDHU/dsa-diary?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/PXDHU/dsa-diary?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/PXDHU/dsa-diary?style=for-the-badge)
-
 ---
 
 ## About This Repository
@@ -28,9 +23,9 @@ This is not just a repository of answers, but a **learning journal** that helps 
 
 | Topic | Problems Solved | Status |
 |:------|:----------------:|:------:|
-| Arrays & Hashings | 5 | Completed |
+| Arrays & Hashings | 6 | Completed |
 | Two Pointers | 5 | Completed |
-| **Total** | **10** | Growing daily |
+| **Total** | **11** | Growing daily |
 
 ---
 
