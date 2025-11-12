@@ -24,8 +24,8 @@ This is not just a repository of answers, but a **learning journal** that helps 
 | Topic | Problems Solved | Status |
 |:------|:----------------:|:------:|
 | Arrays & Hashings | 6 | Completed |
-| Two Pointers | 5 | Completed |
-| **Total** | **11** | Growing daily |
+| Two Pointers | 6 | Completed |
+| **Total** | **12** | Growing daily |
 
 ---
 
