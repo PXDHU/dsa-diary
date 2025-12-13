@@ -5,7 +5,6 @@ such that the value of the resulting string in decimal form is maximum.
 
 I/P: number = "1321", digit = "1"
 O/P: "321"
-
 """
 class Solution:
     def removeMax(self, number, digit):
