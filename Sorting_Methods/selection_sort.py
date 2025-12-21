@@ -1,20 +1,33 @@
+def swap(arr, i, j):
+    temp = arr[j]
+
+    arr[j] = arr[i]
+
+    arr[i] = temp
+
 def selection_sort(arr):
     n = len(arr)
 
-    # Traverse through all array elements
     for i in range(n-1):
-        min_index = i # Assume current index is the minimum
+        minimum = i
 
-        # Find the minimum element in the remaining array
         for j in range(i+1, n):
-            if arr[j] < arr[min_index]:
-                min_index = j
 
-        # Swap the found minimum with the first element of the unsorted array
-        arr[i], arr[min_index] = arr[min_index], arr[i]
-
+            if arr[j] < arr[minimum]:
+                minimum = j
+            
+        swap(arr, minimum, i)
+    
     return arr
 
-arr1 = [3, 4, 2, 9, 5, 1]
+n = int(input("Enter the number of elements in the Array: "))
+arr = []
 
-print(selection_sort(arr1))
+for i in range(n):
+    ele = int(input("Enter the element: "))
+    arr.append(ele)
+
+
+print("Array before Sorting: ", arr)
+
+print("Array after Sorting: ", selection_sort(arr))
